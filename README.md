@@ -1,6 +1,7 @@
 <html>
     <head>
         <link rel = "stylesheet" href= "style.css/>
+    </head>
     <body>
         <header>
             <a href="#price">Price list</a> <a href="#reviews">Reviews</a> <a href="#photos">Photos</a>
