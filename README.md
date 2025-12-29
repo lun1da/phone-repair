@@ -1,4 +1,6 @@
 <html>
+    <head>
+        <link rel = "stylesheet" href= "style.css/>
     <body>
         <header>
             <a href="#price">Price list</a> <a href="#reviews">Reviews</a> <a href="#photos">Photos</a>
